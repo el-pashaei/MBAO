@@ -5,12 +5,10 @@ A binary version of Aquila optimizer (BAO) is implemented to tackle Feature Sele
 
 
 ## How to get started
-- install R 4.1.3 and RStudio 
-- Install R Packages including 
-   library(foreign)
-library(farff)
-library("praznik"
-- Download the zip file
+- Install R 4.1.3 and RStudio 
+- Install R Packages
+- Download the zip files
+- Run the main file
 
-
+### Required dependencies (R packages)
 
