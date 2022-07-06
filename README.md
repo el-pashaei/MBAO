@@ -7,8 +7,8 @@ A binary version of Aquila optimizer (BAO) is implemented to tackle Feature Sele
 ## How to get started
 - Install R 4.1.3 and RStudio 
 - Install R Packages
+- Download Microarray datasets
 - Download the zip files
-- Run the main file
 
 #### Required dependencies (R packages)
 - foreign
@@ -22,3 +22,5 @@ A binary version of Aquila optimizer (BAO) is implemented to tackle Feature Sele
 - e1071
 - pracma
 
+## Usage
+To reproduce the full results in the paper, run "main.R" file. 
