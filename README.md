@@ -10,7 +10,7 @@ A binary version of Aquila optimizer (BAO) is implemented to tackle Feature Sele
 - Download the zip files
 - Run the main file
 
-### Required dependencies (R packages)
+#### Required dependencies (R packages)
 - foreign
 - farff
 - praznik
