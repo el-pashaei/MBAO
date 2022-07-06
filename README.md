@@ -11,4 +11,14 @@ A binary version of Aquila optimizer (BAO) is implemented to tackle Feature Sele
 - Run the main file
 
 ### Required dependencies (R packages)
+- foreign
+- farff
+- praznik
+- caret
+- randomForest
+- FSelector
+- plyr
+- class
+- e1071
+- pracma
 
