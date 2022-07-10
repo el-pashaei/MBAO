@@ -23,6 +23,7 @@ A binary version of Aquila optimizer (BAO) is implemented to tackle Feature Sele
 - class
 - e1071
 - pracma
+- readxl
 
 ## Usage
 To reproduce the full results in the paper, run "main.R" file. 
